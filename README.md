@@ -41,3 +41,23 @@
 - **Principal Component Analysis (PCA)**: Implementing PCA to reduce dimensionality and discover important relationships in the data.
   
 - **Target Encoding**: Applying target encoding to categorical features to capture information related to the target variable.
+
+**4. Data Cleaning - Kaggle**
+
+- **Handling Missing Values**:
+Techniques to identify and handle missing data points, such as dropping rows or columns and filling in missing values with appropriate strategies.
+
+- **Scaling and Normalization**:
+Differences between scaling (changing the range of your data) and normalization (changing the shape of the distribution of your data).
+
+- **Parsing Dates**:
+Converting string dates into datetime objects for easier manipulation.
+Extracting specific components of a date, such as year, month, day, etc.
+
+- **Character Encoding**s:
+Understanding the concept of character encodings.
+Dealing with common encoding issues that arise when reading and writing files.
+
+- **Inconsistent Data Entry**:
+Identifying and correcting inconsistencies in data entries, which is a common problem in real-world data.
+Techniques to clean up and standardize the data entries for further analysis (Fuzzywuzzy library).
