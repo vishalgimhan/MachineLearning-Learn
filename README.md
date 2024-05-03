@@ -61,3 +61,13 @@ Dealing with common encoding issues that arise when reading and writing files.
 - **Inconsistent Data Entry**:
 Identifying and correcting inconsistencies in data entries, which is a common problem in real-world data.
 Techniques to clean up and standardize the data entries for further analysis (Fuzzywuzzy library).
+
+**5. Visualize a Linear Regression Algorithm**
+
+- **Importing Libraries**: The notebook begins by importing necessary Python libraries for data handling and machine learning, including pandas, numpy, and sklearn.
+
+- **Dataset Overview**: It uses the Advertising.csv dataset, which includes variables like TV, Radio, Newspaper advertising budgets, and Sales figures.
+
+- **Linear Regression Model**: A Linear Regression model is built to predict Sales based on the TV advertising budget.
+
+- **Visualization**: The relationship between TV advertising and Sales is visualized using a scatter plot and a regression line, indicating a positive correlation.
