@@ -71,3 +71,17 @@ Techniques to clean up and standardize the data entries for further analysis (Fu
 - **Linear Regression Model**: A Linear Regression model is built to predict Sales based on the TV advertising budget.
 
 - **Visualization**: The relationship between TV advertising and Sales is visualized using a scatter plot and a regression line, indicating a positive correlation.
+
+**6. Artificial Intelligence Foundations - Machine Learning**
+
+- **Handling Missing Values**: Missing values were imputed using different methods, including mean, median, and KNN imputation.
+
+- **Feature Engineering**: New features were created to enhance the predictive power of the model, such as interaction features, aggregated features, and ratio features.
+
+- **Encoding Categorical Variables**: Categorical variables were encoded using techniques like one-hot encoding to convert them into numerical format.
+
+- **Model Selection**: Various machine learning algorithms were used, including Linear Regression, Random Forest, and XGBoost.
+
+- **Model Performance**: The models were evaluated using metrics such as R-squared, accuracy, precision, recall, and F1-score. The Random Forest and XGBoost models showed better performance compared to Linear Regression.
+
+- **Hyperparameter Tuning**: Hyperparameters of the models were tuned to improve performance further.
